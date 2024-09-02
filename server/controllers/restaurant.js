@@ -10,7 +10,7 @@ import fs from "fs";
 import path from "path";
 import mime from "mime-types";
 
-const API_KEY = "AIzaSyCwOJSh5usJKuX3zb4eOOZAPIvO7VbBvJk";
+const API_KEY = "AIzaSyDz64z5B9cmjf-4H079mGedsy-znLVgYzs";
 const fileManager = new GoogleAIFileManager(API_KEY);
 const genAI = new GoogleGenerativeAI(API_KEY);
 
