@@ -7,7 +7,7 @@
     "start": "SET NODE_ENV=PRODUCTION && node app.js",
     "dev": "SET NODE_ENV=DEVELOPMENT && nodemon app.js"
   },
-  "author": "Tushar",
+  "author": "Alkesh",
   "license": "ISC",
   "description": "",
   "dependencies": {
